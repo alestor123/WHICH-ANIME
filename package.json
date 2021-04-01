@@ -1,0 +1,23 @@
+{
+  "name": "which-anime",
+  "version": "1.0.0",
+  "description": "This is a simple code for gettting anime name from their photo",
+  "main": "App.js",
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alestor123/WHICH-ANIME.git"
+  },
+  "author": "Alestor Aldous",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alestor123/WHICH-ANIME/issues"
+  },
+  "homepage": "https://github.com/alestor123/WHICH-ANIME#readme"
+}
